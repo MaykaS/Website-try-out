@@ -1,0 +1,55 @@
+body {
+  background-color: thistle;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: auto;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+form { 
+    margin: 0 auto; 
+    width:250px;
+}
+
+input[type=text] {
+  border: 2px white;
+  border-radius: 4px;
+  
+}
+
+input[type=email] {
+  border: 2px white;
+  border-radius: 4px;
+  
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: violet;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+p {
+  font-family: Courier New;
+  font-size: 15px;
+  text-align: center;
+}
